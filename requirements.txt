@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+pyarrow
+streamlit-aggrid
+google-auth
+requests
