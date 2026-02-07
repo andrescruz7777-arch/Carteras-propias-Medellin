@@ -21,7 +21,7 @@ st.set_page_config(
     layout="centered",
     page_icon="💰",
 )
-st.title("💰 Bienvenido al registro de pagos de carteras propias Bogotá")
+st.title("💰 Bienvenido al registro de pagos de carteras propias Medellin 🚇")
 
 # =======================================
 # 📂 RUTAS LOCALES (repositorio raíz)
